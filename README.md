@@ -4,6 +4,7 @@
 - `HTML`
 - `CSS`
 - `Javascript`
+- `AJAX`
 - [Phosfor Icon](https://phosphoricons.com/)
 
 ### API PROJECT 💡
