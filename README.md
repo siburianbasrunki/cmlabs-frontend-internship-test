@@ -4,6 +4,7 @@
 - `HTML`
 - `CSS`
 - `Javascript`
+- [Phosfor Icon](https://phosphoricons.com/)
 
 ### API PROJECT 💡
 | name          | URL | Type             |
@@ -19,7 +20,7 @@
   https://github.com/siburianbasrunki/cmlabs-frontend-internship-test.git
 ```
 2. Unzip the cloned repository
-3. Run on live server (internet connected)
+3. Run the project on the live server in the index.html file (internet connected)
 
 
 
