@@ -50,10 +50,5 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .catch((error) => console.error("Error fetching random meal image:", error));
 
-  const exploreButton = document.querySelector(".explore-button");
-  exploreButton.addEventListener("click", function () {
-    document
-      .getElementById("categories-container")
-      .scrollIntoView({ behavior: "smooth" });
-  });
+  
 });
