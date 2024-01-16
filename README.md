@@ -24,5 +24,5 @@
 
 
 
-## Authors 👦
+## Author 👦
 - [@siburianbasrunki](https://www.github.com/siburianbasrunki)
